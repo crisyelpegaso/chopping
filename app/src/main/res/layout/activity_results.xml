@@ -1,0 +1,26 @@
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/results_resume"
+        />
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Show all in map"
+        android:id="@+id/button"
+        android:onClick="displayOnResultsOnMap"/>
+
+
+    <ListView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/results"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent" />
+
+</LinearLayout>

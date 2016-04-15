@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Chopping</string>
+
+    <string name="action_search">Search</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_results">Results</string>
+    <string name="title_map">Map</string>
+
+
+    <string-array name="categories">
+            <item>Indumentaria</item>
+            <item>Zapatos</item>
+            <item>Maquillaje</item>
+            <item>Deportes</item>
+    </string-array>
+
+</resources>
