@@ -16,7 +16,7 @@
 
         <meta-data
             android:name="com.google.android.maps.v2.API_KEY"
-            android:value="AIzaSyBsWxNVhVun8_2aZXP_P2teVgqg1qmxnPM"/>
+            android:value="AIzaSyD0JADt1_sNkm2foftpBNy8JEvuhrfXaGk"/>
 
         <activity
             android:name="org.chopping.activity.SearchActivity"
